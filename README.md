@@ -12,7 +12,13 @@
 - Some comments
 
 ## How to use?
-<p>It <b>does not work as it is</b>. You will have to include your own direct download links and so on.</p>
+### Compiling
+#### Prerequisites
+Microsoft Visual Studio 2022 alongside with Windows SDK
+
+#### Compiling from source
+Open 'DependAppInstaller.sln' in Visual Studio 2022, set build configuration to Debug/Release | Any CPU, Build->Build Solution and DependAppInstaller.exe will be created.
+
 
 ### Add packages
 <p>To add packages, you will need to create new CheckBoxes. You do not need to change the <b>(Name)</b>, the only thing you need to change is the <b>"Text" associated with the control</b> and set the <b>"CheckedChanged" event to "selectionCheckBox"</b>.</p>
