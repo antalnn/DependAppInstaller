@@ -1,0 +1,10 @@
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\bin\Debug\DependAppInstaller.exe.config
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\bin\Debug\DependAppInstaller.exe
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\bin\Debug\DependAppInstaller.pdb
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\obj\Debug\DependAppInstaller.csproj.AssemblyReference.cache
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\obj\Debug\DependAppInstaller.Form1.resources
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\obj\Debug\DependAppInstaller.Properties.Resources.resources
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\obj\Debug\DependAppInstaller.csproj.GenerateResource.cache
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\obj\Debug\DependAppInstaller.csproj.CoreCompileInputs.cache
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\obj\Debug\DependAppInstaller.exe
+C:\Users\tonda\source\repos\DependAppInstaller\DependAppInstaller\obj\Debug\DependAppInstaller.pdb
