@@ -20,7 +20,7 @@
 
 <p>e.g.</p>
 
-```
+```cpp
 switch (check.Text)
 {
 // This is what we had
