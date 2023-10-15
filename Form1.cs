@@ -112,25 +112,25 @@ namespace DependAppInstaller
                             switch (check.Text)
                             {
                                 case "Visual Studio 2022":
-                                    installPackage("link", check.Text, "exe");
+                                    installPackage("https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030:8bf9b352f8cf44d285d2dd7cc9287733", check.Text, "exe");
                                     break;
                                 case "IDA Pro":
                                     installPackage("link", check.Text, "zip");
                                     break;
                                 case "HxD":
-                                    installPackage("link", check.Text, "zip");
+                                    installPackage("https://mh-nexus.de/downloads/HxDSetup.zip", check.Text, "zip");
                                     break;
                                 case "Cheat Engine":
-                                    installPackage("link", check.Text, "exe");
+                                    installPackage("https://d1vdn3r1396bak.cloudfront.net/installer/64819247198774119/26116644", check.Text, "exe");
                                     break;
                                 case "GitHub Desktop":
-                                    installPackage("link", check.Text);
+                                    installPackage("https://desktop.githubusercontent.com/github-desktop/releases/3.3.3-abf8a692/GitHubDesktopSetup-x64.exe", check.Text, "exe");
                                     break;
                                 case "AIO Runtimes":
-                                    installPackage("link", check.Text);
+                                    installPackage("https://media.computerbase.de/s/b-71ks16U3QerSsykCxX0A/1697389654/download/758/aio-runtimes_v2.5.0.exe", check.Text, "exe");
                                     break;
                                 case "Discord":
-                                    installPackage("link", check.Text);
+                                    installPackage("https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9019/DiscordSetup.exe", check.Text, "exe");
                                     break;
                             }
                         }
